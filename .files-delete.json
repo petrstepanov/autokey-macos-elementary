@@ -1,0 +1,31 @@
+{
+    "usageCount": 1, 
+    "omitTrigger": false, 
+    "prompt": true, 
+    "description": "files-delete", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "<backspace>", 
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": true, 
+    "matchCase": false, 
+    "filter": {
+        "regex": "io.elementary.files.Io.elementary.files", 
+        "isRecursive": false
+    }, 
+    "type": "phrase", 
+    "sendMode": "kb"
+}
