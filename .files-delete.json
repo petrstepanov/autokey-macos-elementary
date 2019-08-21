@@ -1,7 +1,7 @@
 {
-    "usageCount": 1, 
+    "usageCount": 6, 
     "omitTrigger": false, 
-    "prompt": true, 
+    "prompt": false, 
     "description": "files-delete", 
     "abbreviation": {
         "wordChars": "[\\w]", 
@@ -20,7 +20,7 @@
     "modes": [
         3
     ], 
-    "showInTrayMenu": true, 
+    "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
         "regex": "io.elementary.files.Io.elementary.files", 

@@ -1,8 +1,8 @@
 {
-    "usageCount": 84, 
+    "usageCount": 156, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "eclipse-ctrl-tab", 
+    "description": "multitask", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,20 +12,17 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "<tab>", 
-        "modifiers": [
-            "<super>"
-        ]
+        "hotKey": "<code128>", 
+        "modifiers": []
     }, 
     "modes": [
         3
     ], 
     "showInTrayMenu": false, 
-    "matchCase": false, 
     "filter": {
-        "regex": "Eclipse.Eclipse", 
+        "regex": null, 
         "isRecursive": false
     }, 
-    "type": "phrase", 
-    "sendMode": "kb"
+    "type": "script", 
+    "store": {}
 }
